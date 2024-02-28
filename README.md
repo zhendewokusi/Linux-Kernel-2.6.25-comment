@@ -1,0 +1,1 @@
+Used to learn the 2.6.25 linux kernel by myself
